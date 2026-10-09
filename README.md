@@ -21,7 +21,7 @@ This module is NOT distributed via GitHub. Download only from oubpa.com/shop.
 
 No GitHub clone needed.
 
-![Themestar Rich Snippet Configuration](configuration riche snippet.jpeg)
+![Themestar Rich Snippet Configuration](configuration-riche-snippet.jpeg)
 ## License
 
 Free License - Lifetime.
