@@ -8,6 +8,8 @@ Official download: https://oubpa.com/shop
 
 This module is NOT distributed via GitHub. Download only from oubpa.com/shop.
 
+![Themestar Rich Snippet Dashboard](riche-snippet.jpeg)
+
 ## Download
 
 1. Go to [https://oubpa.com/shop](https://oubpa.com/product/richsnippet-json-ld-structured-data-seo-rich-results-for-magento-2/)
